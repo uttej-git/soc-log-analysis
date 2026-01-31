@@ -37,7 +37,6 @@ soc-log-analysis/
 
 
 
----
 
 ## 🔍 Methodology
 1. Collected authentication logs from `/var/log/auth.log`
