@@ -26,16 +26,15 @@ The objective is to identify failed SSH login attempts and detect potential brut
 
 ## 📂 Project Structure
 
-'''
-
+```text
 soc-log-analysis/
 ├── logs/
-│ └── auth.log
+│   └── auth.log
 ├── analysis/
-│ ├── failed_logins.txt
-│ └── suspicious_ips.txt
+│   ├── failed_logins.txt
+│   └── suspicious_ips.txt
 └── report.txt
-'''
+
 
 
 ---
