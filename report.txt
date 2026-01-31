@@ -1,0 +1,6 @@
+SOC Log Analysis Report
+
+Detected repeated failed SSH login attempts.
+Attacker IP: 192.168.56.101
+Number of attempts: 2
+Conclusion: Possible brute-force login attempt (simulated).
