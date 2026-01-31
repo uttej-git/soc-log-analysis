@@ -23,7 +23,11 @@ The objective is to identify failed SSH login attempts and detect potential brut
 
 ---
 
+
 ## 📂 Project Structure
+
+'''
+
 soc-log-analysis/
 ├── logs/
 │ └── auth.log
@@ -31,7 +35,7 @@ soc-log-analysis/
 │ ├── failed_logins.txt
 │ └── suspicious_ips.txt
 └── report.txt
-
+'''
 
 
 ---
